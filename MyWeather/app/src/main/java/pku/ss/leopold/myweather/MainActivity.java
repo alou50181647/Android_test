@@ -14,7 +14,6 @@ public class MainActivity extends ActionBarActivity {
         setContentView(R.layout.weather_info);
     }
 
-    
 
     @Override
     public boolean onCreateOptionsMenu(Menu menu) {
